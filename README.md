@@ -1,1 +1,1 @@
-"# ReduxUygulamasi" 
+# ReduxUygulamasi
