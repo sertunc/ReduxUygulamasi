@@ -1,0 +1,13 @@
+const constants = {
+  OGRENCI: {
+    DEGISTIR_AD: 'OGRENCI.DEGISTIR_AD',
+    DEGISTIR_SOYAD: 'OGRENCI.DEGISTIR_SOYAD',
+    EKLE: 'OGRENCI.EKLE'
+  },
+  SINIF: {
+    DEGISTIR_AD: 'SINIF.DEGISTIR_AD',
+    DEGISTIR_OGRETMEN: 'SINIF.DEGISTIR_OGRETMEN'
+  }
+}
+
+export default constants;
