@@ -1,1 +1,1 @@
-# ReduxUygulamasi
+# Redux Uygulaması
